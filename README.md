@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github Page](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-flexbox-m2-g_0niLX)
+- Live Site URL: [Github Page](https://saadaan-hassan.github.io/Huddle-Landing-Page/)
 
 ## My process
 
